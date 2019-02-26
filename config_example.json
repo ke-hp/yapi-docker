@@ -1,0 +1,22 @@
+{
+  "port": "3000",
+  "adminAccount": "ADMIN_ACCOUNT",
+  "db": {
+    "servername": "DB_SERVER_NAME",
+    "DATABASE": "DB_DATABASE",
+    "port": "DB_PORT",
+    "user": "DB_USER",
+    "pass": "DB_PASS",
+    "authSource": ""
+  },
+  "mail": {
+    "enable": true,
+    "host": "smtp.163.com",
+    "port": 465,
+    "from": "***@163.com",
+    "auth": {
+      "user": "***@163.com",
+      "pass": "*****"
+    }
+  }
+}
